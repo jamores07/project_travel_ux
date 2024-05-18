@@ -7,8 +7,8 @@ import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "Roaming Pinoy Travels",
-  description: "Roaming Pinoy traveling experiences",
+  title: "Hilink",
+  description: "Traveling App for hiking and climbing",
 };
 
 export default function RootLayout({
